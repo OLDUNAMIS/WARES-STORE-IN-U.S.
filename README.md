@@ -6,6 +6,8 @@ Welcome to the **Clothe Warehouse Sales Analysis** repository! This project dive
 ## 📊 What's This All About?
 
 This repository contains an in-depth analysis of the **CLOTHE WAREHOUSE SALES.xlsx** dataset, which tracks customer purchases across various clothing categories, seasons, colors, and more. The dataset includes detailed customer demographics, purchase amounts, payment methods, and shipping preferences from a Montana-based retail operation. We’ve crunched the numbers to uncover insights, identify loopholes, and propose strategies to boost revenue and make this business *fabulous*.
+![WhatsApp Image 2025-07-15 at 05 47 50_6264c039](https://github.com/user-attachments/assets/d0405d7d-0a83-4253-a562-4dfc984ae4f6)
+
 
 ### Key Highlights of the Dataset
 - **295 transactions** from Montana customers, with a total sales value of **$17,542**.
@@ -14,7 +16,12 @@ This repository contains an in-depth analysis of the **CLOTHE WAREHOUSE SALES.xl
 - Pivot tables summarizing sales by category, location, and more.
 - A sprinkle of VBA magic for dynamic map color toggling (because who doesn’t love a pastel purple meteorite? 🌠).
 
+![Warehouse Dataset cleanup](https://github.com/user-attachments/assets/aa884166-d420-49aa-8607-d432d0392b4a)
+
+
 ## 🕵️‍♂️ Business Analysis: What’s Hot and What’s Not
+<img width="1024" height="1024" alt="Clothe Analysis image" src="https://github.com/user-attachments/assets/77ef5b8a-dbb8-4cae-a669-8cc42e56d286" />
+
 
 ### The Good: What’s Driving Sales
 - **Clothing is King**: Clothing accounts for **$8,507** in sales (48.5% of total revenue) with **136 items sold**. It’s the backbone of the business, with items like jeans, sweaters, and shirts flying off the racks.
